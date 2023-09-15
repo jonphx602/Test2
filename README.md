@@ -15,3 +15,9 @@
 
 ---
 # Markdown Activity
+
+![Mission_Logo](Mission_Logo.png)
+
+##ReadMe Description
+
+###Table of Contents
