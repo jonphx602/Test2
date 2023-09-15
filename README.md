@@ -16,7 +16,7 @@
 ---
 # Markdown Activity
 
-![Mission_Logo](Mission_Logo.png)
+![Mission_Logo](Mission%20Logo.png)
 
 ## ReadMe Description
 
